@@ -1,5 +1,3 @@
-<script>
 $(function(){
 $("svg").hide();
 })
-</script>
